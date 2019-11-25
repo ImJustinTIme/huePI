@@ -1,0 +1,1 @@
+{"rustc":7815807493188117355,"features":"[]","target":499100677754108373,"profile":14891217944882224483,"path":11993485878574342755,"deps":[[9716786593392170889,"rust_gpiozero",false,1591494672143466510]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ledtest-f8d55bd8ee26e43d/dep-bin-ledtest-f8d55bd8ee26e43d"}}],"rustflags":[],"metadata":4196317058410516900}
